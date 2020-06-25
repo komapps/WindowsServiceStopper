@@ -1,0 +1,4 @@
+﻿DoSvc
+BITS
+wuauserv
+WaaSMedicSvc
